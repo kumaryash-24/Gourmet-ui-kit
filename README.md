@@ -22,6 +22,8 @@ Welcome to **Gourmet-UI-Kit**, a beautifully crafted restaurant website designed
 
 Whether you’re building a professional restaurant website or exploring web development, **Gourmet-UI-Kit** is your perfect starting point.
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 **✨ Explore the Code. Build the Experience. Impress Your Diners. 🍴**
+
+![](https://i.imgur.com/waxVImv.png)
